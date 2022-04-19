@@ -15,6 +15,13 @@ body {
 	color: #fff;
 }
 
+.filter-block {
+	background: #192233;
+	padding: 2rem;
+	border-bottom: 1px solid #333f55;
+	border-top: 1px solid #333f55;
+}
+
 .btn {
 	outline: none;
 	border: none;
